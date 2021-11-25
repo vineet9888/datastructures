@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f1ea3c7-f382-4333-be9c-45c8b390c9bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rHqfVIyQSSjiYF7s8XjDIVh2nb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../System Design/lld-parking-lot-master/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.DaemonThread">
+    <configuration name="CombinationSum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.algo.problem.solving.AmazonPrepration.CombinationSum" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ds.algo.problem.solving.AmazonPrepration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CradlePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.algo.problem.solving.Arrays.CradlePoint" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ds.algo.problem.solving.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.threading.DaemonThread" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.threading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPMorgan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.algo.problem.solving.Arrays.JPMorgan" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ds.algo.problem.solving.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.algo.problem.solving.dp.LongestIncreasingSubsequence" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ds.algo.problem.solving.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromicPartioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.algo.problem.solving.dp.PalindromicPartioning" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ds.algo.problem.solving.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DaemonThread" />
+        <item itemvalue="Application.JPMorgan" />
+        <item itemvalue="Application.CradlePoint" />
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
+        <item itemvalue="Application.PalindromicPartioning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f1ea3c7-f382-4333-be9c-45c8b390c9bf" name="Default Changelist" comment="" />
+      <created>1618643465590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618643465590</updated>
+      <workItem from="1618643469488" duration="28202000" />
+      <workItem from="1618852678392" duration="2024000" />
+      <workItem from="1619199700468" duration="34592000" />
+      <workItem from="1619600584946" duration="29700000" />
+      <workItem from="1619765816734" duration="19941000" />
+      <workItem from="1620019075368" duration="3290000" />
+      <workItem from="1620107241482" duration="106942000" />
+      <workItem from="1621329556021" duration="7650000" />
+      <workItem from="1621620076488" duration="165107000" />
+      <workItem from="1623993797727" duration="732000" />
+      <workItem from="1624170500263" duration="16399000" />
+      <workItem from="1624515133645" duration="10184000" />
+      <workItem from="1624691653501" duration="13330000" />
+      <workItem from="1625075431516" duration="66484000" />
+      <workItem from="1626464810459" duration="14732000" />
+      <workItem from="1626671261551" duration="29831000" />
+      <workItem from="1627316226861" duration="12523000" />
+      <workItem from="1627809505709" duration="609000" />
+      <workItem from="1627810206488" duration="39231000" />
+      <workItem from="1629701386502" duration="60469000" />
+      <workItem from="1630906294457" duration="80435000" />
+      <workItem from="1632638042511" duration="33128000" />
+      <workItem from="1634055132883" duration="18409000" />
+      <workItem from="1635048603943" duration="14278000" />
+      <workItem from="1635748232337" duration="79000" />
+      <workItem from="1635748365787" duration="4150000" />
+      <workItem from="1636346990891" duration="53900000" />
+      <workItem from="1637558304073" duration="4802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1635916575038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="510" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1635916575038" />
+    <state width="774" height="466" key="DebuggerActiveHint" timestamp="1636719690590">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1161" height="713" key="DebuggerActiveHint/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1633087486633" />
+    <state width="774" height="466" key="DebuggerActiveHint/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630653183514" />
+    <state width="774" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1636719690590" />
+    <state width="1161" height="713" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1630742917381" />
+    <state x="421" y="46" width="751" height="588" key="FileChooserDialogImpl" timestamp="1637570730429">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="46" width="751" height="588" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1637570730429" />
+    <state width="1237" height="281" key="GridCell.Tab.0.bottom" timestamp="1637583251685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636625703099" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630671305945" />
+    <state width="1237" height="281" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637583251685" />
+    <state width="1877" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state width="1237" height="281" key="GridCell.Tab.0.center" timestamp="1637583251684">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636625703099" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630671305944" />
+    <state width="1237" height="281" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637583251684" />
+    <state width="1877" height="389" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state width="1237" height="281" key="GridCell.Tab.0.left" timestamp="1637583251684">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636625703099" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630671305944" />
+    <state width="1237" height="281" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637583251684" />
+    <state width="1877" height="389" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state width="1237" height="281" key="GridCell.Tab.0.right" timestamp="1637583251684">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636625703099" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630671305944" />
+    <state width="1237" height="281" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637583251684" />
+    <state width="1877" height="389" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state width="1237" height="281" key="GridCell.Tab.1.bottom" timestamp="1637583251394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636624594436" />
+    <state width="1877" height="263" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630659308773" />
+    <state width="1237" height="281" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637583251394" />
+    <state width="1877" height="389" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state width="1237" height="281" key="GridCell.Tab.1.center" timestamp="1637583251393">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.1.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636624594436" />
+    <state width="1877" height="263" key="GridCell.Tab.1.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630659308770" />
+    <state width="1237" height="281" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1637583251393" />
+    <state width="1877" height="389" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state width="1237" height="281" key="GridCell.Tab.1.left" timestamp="1637583251393">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.1.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636624594436" />
+    <state width="1877" height="263" key="GridCell.Tab.1.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630659308770" />
+    <state width="1237" height="281" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1637583251393" />
+    <state width="1877" height="389" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state width="1237" height="281" key="GridCell.Tab.1.right" timestamp="1637583251394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.1.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636624594436" />
+    <state width="1877" height="263" key="GridCell.Tab.1.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1630659308771" />
+    <state width="1237" height="281" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1637583251394" />
+    <state width="1877" height="389" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630917184111" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1636347567792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1396" y="260" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632638051430" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1636347567792" />
+    <state x="173" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1630906458769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="173" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1630906458769" />
+    <state x="346" y="96" width="808" height="546" key="find.popup" timestamp="1636951858861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1401" y="147" width="1161" height="836" key="find.popup/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636626112003" />
+    <state x="346" y="96" width="808" height="546" key="find.popup/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1633931972874" />
+    <state x="346" y="96" width="808" height="546" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1636951858861" />
+    <state x="519" y="147" width="1161" height="836" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630926114142" />
+    <state x="91" y="46" key="new project wizard" timestamp="1636392408047">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="46" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1636392408047" />
+    <state x="297" y="151" width="672" height="679" key="run.anything.popup" timestamp="1636974641949">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="678" key="run.anything.popup/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1629706372143" />
+    <state x="297" y="151" width="672" height="679" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1636974641949" />
+    <state x="446" y="231" width="1008" height="1037" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630743194153" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1637479391149">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1465" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1636626116520" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1635431198480" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1637479391149" />
+    <state x="455" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630926124775" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/CombinationSum.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/PairSumDivisibleByK.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/PairSumDivisibleByK.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/OLA.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/MatrixSpiralOrder.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/MatrixSpiralOrder.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/SlidingWindowMaximum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/heap/MedianOfRunningStream.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/stack/ReverseStack.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/graphs/SearchWordInGrid.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/graphs/SearchWordInGrid.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/dp/LongestIncreasingSubsequence.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/stack/NextGreaterElement.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/SmallestSubarrayWithSumGreatedThanGivenValue.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/CradlePoint.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
